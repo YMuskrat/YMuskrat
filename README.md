@@ -1,1 +1,1 @@
-![Human and artificial hands formed from code, reaching toward each other in a Renaissance composition.](creation-of-intelligence.png)
+![Human and artificial hands formed from code, reaching toward each other in a Renaissance composition.](https://raw.githubusercontent.com/YMuskrat/YMuskrat/52b0f29814b089c7688f28b699c886fb7b98ba59/creation-of-intelligence.png)
